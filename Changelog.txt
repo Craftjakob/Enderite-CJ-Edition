@@ -1,0 +1,35 @@
+ENDERITE VERSION 0.5.0
+	1. Added Items
+		- Raw Enderite
+		- Enderite Scrap
+		- Enderite Ingot
+		- Raw Enderite Block
+		- Enderite Block
+		- Enderite Sword
+		- Enderite Pickaxe
+		- Enderite Axe
+		- Enderite Shovel
+		- Enderite Hoe
+		- Enderite Helmet
+		- Enderite Elytra Chestplate
+		- Enderite Chestplate
+		- Enderite Leggings
+		- Enderite Boots
+	2. Added Support for Gilded Netherite
+		- Gilded Enderite Block
+		- Gilded Enderite Sword
+		- Gilded Enderite Pickaxe
+		- Gilded Enderite Axe
+		- Gilded Enderite Shovel
+		- Gilded Enderite Hoe
+		- Gilded Enderite Helmet
+		- Gilded Enderite Elytra Chestplate
+		- Gilded Enderite Chestplate
+		- Gilded Enderite Leggings
+		- Gilded Enderite Boots
+	3. Enderite Ore generate in the End
+	4. Added Translation for Englisch | Us, German | Deutsch, Spanish | Español
+	5. Added a very little secret (please write a comment and say it!)
+	
+Please write feedback in the comment section!
+		
