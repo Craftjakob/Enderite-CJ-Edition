@@ -1,0 +1,40 @@
+{
+	"display": {
+		"icon": {
+			"item": "enderite:enderite_ingot"
+		},
+		"title": {
+			"translate": "advancements.end.enderite.obtain_enderite_ingot.title"
+		},
+		"description": {
+			"translate": "advancements.end.enderite.obtain_enderite_ingot.description"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "minecraft:end/kill_dragon",
+	"criteria": {
+		"obtain_enderite_ingot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"enderite:enderite_ingot"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"obtain_enderite_ingot"
+		]
+	],
+	"rewards": {
+		"experience": 50
+	}
+}

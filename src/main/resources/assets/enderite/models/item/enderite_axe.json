@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "enderite:item/enderite_axe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "enderite:item/broken/broken_enderite_axe"
+        }
+    ]
+}

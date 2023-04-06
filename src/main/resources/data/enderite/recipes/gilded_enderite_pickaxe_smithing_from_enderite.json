@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:tools/gilded_netherite_pickaxe"
+  },
+  "addition": {
+    "item": "enderite:enderite_ingot"
+  },
+  "result": {
+    "item": "enderite:gilded_enderite_pickaxe"
+  }
+}

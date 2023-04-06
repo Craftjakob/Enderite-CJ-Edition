@@ -1,0 +1,22 @@
+{
+  "values": [
+    "enderite:enderite_ingot",
+    "enderite:enderite_scrap",
+    "enderite:raw_enderite",
+    "enderite:enderite_block",
+    "enderite:enderite_ore",
+    "enderite:raw_enderite_block",
+    
+    "enderite:enderite_helmet",
+    "enderite:enderite_chestplate",
+    "enderite:enderite_elytra_chestplate",
+    "enderite:enderite_leggings",
+    "enderite:enderite_boots",
+    
+    "enderite:enderite_sword",
+    "enderite:enderite_pickaxe",
+    "enderite:enderite_axe",
+    "enderite:enderite_shovel",
+    "enderite:enderite_hoe"
+  ]
+}

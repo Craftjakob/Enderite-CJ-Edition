@@ -1,0 +1,58 @@
+{
+  "creativemodetab.enderite_tab": "Enderit",
+  
+  "item.enderite.raw_enderite": "Rohenderit",
+  "item.enderite.enderite_scrap": "Enderitplatten",
+  "item.enderite.enderite_ingot": "Enderitbarren",
+  
+  "item.enderite.enderite_helmet": "Enderithelm",
+  "item.enderite.enderite_chestplate": "Enderitharnisch",
+  "item.enderite.enderite_elytra_chestplate": "Enderitelytrenharnisch",
+  "item.enderite.enderite_leggings": "Enderitbeinschutz",
+  "item.enderite.enderite_boots": "Enderitstiefel",
+  
+  "item.enderite.enderite_sword": "Enderitschwert",
+  "item.enderite.enderite_pickaxe": "Enderitspitzhacke",
+  "item.enderite.enderite_axe": "Enderitaxt",
+  "item.enderite.enderite_shovel": "Enderitschaufel",
+  "item.enderite.enderite_hoe": "Enderithacke",
+    
+  "block.enderite.enderite_block": "Enderiteblock",
+  "block.enderite.enderite_ore": "Enderiterz",
+  "block.enderite.raw_enderite_block": "Rohenderitblock",
+  "block.enderite.end_respawn_anchor": "Endseelenanker",
+  
+  "tooltip.enderite.enderite_armor.description": "Macht Endermans freundlich",
+  "tooltip.enderite.enderite_elytra_chestplate.description": "Macht Endermans freundlich und du kannst fliegen!",
+  
+  "advancements.end.enderite.obtain_enderite_ingot.title": "Ist das gut?",
+  "advancements.end.enderite.obtain_enderite_ingot.description": "Erhalte einen Enderitbarren",
+  "advancements.end.enderite.enderite_armor.title": "Neue Freunde!",
+  "advancements.end.enderite.enderite_armor.description": "Erhalte eine ganze Enderitrüstung",
+  "advancements.end.enderite.enderite_elytra_chestplate.title": "Die perfekte Rüstung",
+  "advancements.end.enderite.enderite_elytra_chestplate.description": "Erhalte Enderitelytrenharnisch",
+  
+  "advancements.husbandry.enderite.obtain_enderite_hoe.title": "Ok, wenn du es kannst!?",
+  "advancements.husbandry.enderite.obtain_enderite_hoe.description": "Erhalte eine Enderithacke",
+  
+  
+  
+  "item.enderite.gilded_enderite_helmet": "Vergoldete Enderithelm",
+  "item.enderite.gilded_enderite_chestplate": "Vergoldete Enderitharnisch",
+  "item.enderite.gilded_enderite_elytra_chestplate": "Vergoldete Enderitelytrenharnisch",
+  "item.enderite.gilded_enderite_leggings": "Vergoldete Enderitbeinschutz",
+  "item.enderite.gilded_enderite_boots": "Vergoldete Enderitstiefel",
+  
+  "item.enderite.gilded_enderite_sword": "Vergoldetes Enderitschwert",
+  "item.enderite.gilded_enderite_pickaxe": "Vergoldete Enderitspitzhacke",
+  "item.enderite.gilded_enderite_axe": "Vergoldete Enderitaxt",
+  "item.enderite.gilded_enderite_shovel": "Vergoldete Enderitschaufel",
+  "item.enderite.gilded_enderite_hoe": "Vergoldete Enderithacke",
+    
+  "block.enderite.gilded_enderite_block": "Vergoldeter Enderit Block",
+  
+  "tooltip.enderite.gilded_enderite_armor.description": "Macht Endermans und Piglins freundlich",
+  "tooltip.enderite.gilded_enderite_elytra_chestplate.description": "Macht Endermans und Piglins freundlich und du kannst fliegen!"
+  
+}
+

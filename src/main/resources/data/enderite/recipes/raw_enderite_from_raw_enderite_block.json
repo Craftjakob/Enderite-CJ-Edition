@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "enderite_ingot",
+  "ingredients": [
+    {
+      "item": "enderite:raw_enderite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "enderite:raw_enderite"
+  }
+}

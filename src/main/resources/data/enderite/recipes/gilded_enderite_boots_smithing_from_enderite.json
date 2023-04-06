@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "forge:armors/gilded_netherite_boots"
+  },
+  "addition": {
+    "item": "enderite:enderite_ingot"
+  },
+  "result": {
+    "item": "enderite:gilded_enderite_boots"
+  }
+}

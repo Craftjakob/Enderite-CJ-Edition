@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "enderite:block/gilded/gilded_enderite_block"
+  }
+}

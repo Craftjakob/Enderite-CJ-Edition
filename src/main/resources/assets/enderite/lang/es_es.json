@@ -1,0 +1,57 @@
+{
+  "creativemodetab.enderite_tab": "Enderita",
+  
+  "item.enderite.raw_enderite": "Enderita en bruto",
+  "item.enderite.enderite_scrap": "Fragmentos de enderita",
+  "item.enderite.enderite_ingot": "Lingote de enderita",
+  
+  "item.enderite.enderite_helmet": "Casco de enderita",
+  "item.enderite.enderite_chestplate": "Peto de netherita",
+  "item.enderite.enderite_elytra_chestplate": "Peto de élitros de enderita",
+  "item.enderite.enderite_leggings": "Grebas de enderita",
+  "item.enderite.enderite_boots": "Botas de enderita",
+  
+  "item.enderite.enderite_sword": "Espada de enderita",
+  "item.enderite.enderite_pickaxe": "Pico de enderita",
+  "item.enderite.enderite_axe": "Hacha de enderita",
+  "item.enderite.enderite_shovel": "Pala de enderita",
+  "item.enderite.enderite_hoe": "Azada de enderita",
+    
+  "block.enderite.enderite_block": "Bloque de enderita",
+  "block.enderite.enderite_ore": "Mena de enderita",
+  "block.enderite.raw_enderite_block": "Bloque de enderita en bruto",
+  "block.enderite.end_respawn_anchor": "End nexo de reaparición",
+  
+  "tooltip.enderite.enderite_armor.description": "Hace que los Endermans sean pacíficos",
+  "tooltip.enderite.enderite_elytra_chestplate.description": "Hace que los Endermans sean pacíficos y tu puedes volar!",
+  
+  "advancements.end.enderite.obtain_enderite_ingot.title": "¿Es bueno eso?",
+  "advancements.end.enderite.obtain_enderite_ingot.description": "Obtener lingote de enderita",
+  "advancements.end.enderite.enderite_armor.title": "Nuevos amigos!",
+  "advancements.end.enderite.enderite_armor.description": "Obtener una armadura de enderita completa",
+  "advancements.end.enderite.enderite_elytra_chestplate.title": "La armadura perfecta",
+  "advancements.end.enderite.enderite_elytra_chestplate.description": "Obtener peto de élitros de enderita",
+  
+  "advancements.husbandry.enderite.obtain_enderite_hoe.title": "Vale, ¿si puedes?",
+  "advancements.husbandry.enderite.obtain_enderite_hoe.description": "Obtener azada de enderita",
+  
+  
+  
+  "item.enderite.gilded_enderite_helmet": "Dorada casco de enderita",
+  "item.enderite.gilded_enderite_chestplate": "Dorada peto de netherita",
+  "item.enderite.gilded_enderite_elytra_chestplate": "Dorada peto de élitros de enderita",
+  "item.enderite.gilded_enderite_leggings": "Dorada grebas de enderita",
+  "item.enderite.gilded_enderite_boots": "Dorada botas de enderita",
+  
+  "item.enderite.gilded_enderite_sword": "Dorada espada de enderita",
+  "item.enderite.gilded_enderite_pickaxe": "Dorada pico de enderita",
+  "item.enderite.gilded_enderite_axe": "Dorada hacha de enderita",
+  "item.enderite.gilded_enderite_shovel": "Dorada pala de enderita",
+  "item.enderite.gilded_enderite_hoe": "Dorada azada de enderita",
+    
+  "block.enderite.gilded_enderite_block": "Dorada Bloque de enderita",
+  
+  "tooltip.enderite.gilded_enderite_armor.description": "Hace que los Endermans y los Piglins sean pacíficos",
+  "tooltip.enderite.gilded_enderite_elytra_chestplate.description": "Hace que los Endermans y los Piglins sean pacíficos y tu puedes volar!"
+  
+}

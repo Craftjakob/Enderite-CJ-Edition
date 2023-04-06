@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderite:item/gilded/gilded_enderite_leggings"
+  },
+    "overrides": [
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "enderite:item/broken/gilded/broken_gilded_enderite_leggings"
+        }
+    ]
+}

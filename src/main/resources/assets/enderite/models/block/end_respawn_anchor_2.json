@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "enderite:block/end_respawn_anchor_bottom",
+    "side": "enderite:block/end_respawn_anchor_side2",
+    "top": "enderite:block/end_respawn_anchor_top"
+  }
+}

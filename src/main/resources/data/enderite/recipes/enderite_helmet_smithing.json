@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_helmet"
+  },
+  "addition": {
+    "item": "enderite:enderite_ingot"
+  },
+  "result": {
+    "item": "enderite:enderite_helmet"
+  }
+}

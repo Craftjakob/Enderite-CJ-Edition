@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  	"values": [
+  		"enderite:enderite_block", 
+  		"enderite:enderite_ore", 
+    	"enderite:gilded_enderite_block", 
+  		"enderite:raw_enderite_block",
+  		"enderite:end_respawn_anchor"
+  		]
+}

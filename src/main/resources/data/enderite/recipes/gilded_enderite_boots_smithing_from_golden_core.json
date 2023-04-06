@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+  	"item": "enderite:enderite_boots"
+  },
+  "addition": {
+    "tag": "forge:materials/golden_core"
+  },
+  "result": {
+    "item": "enderite:gilded_enderite_boots"
+  }
+}

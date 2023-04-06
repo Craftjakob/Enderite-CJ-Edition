@@ -1,0 +1,57 @@
+{
+  "creativemodetab.enderite_tab": "Enderite",
+  
+  "item.enderite.raw_enderite": "Raw Enderite",
+  "item.enderite.enderite_scrap": "Enderite Scrap",
+  "item.enderite.enderite_ingot": "Enderite Ingot",
+  
+  "item.enderite.enderite_helmet": "Enderite Helmet",
+  "item.enderite.enderite_chestplate": "Enderite Chestplate",
+  "item.enderite.enderite_elytra_chestplate": "Enderite Elytra Chestplate",
+  "item.enderite.enderite_leggings": "Enderite Leggings",
+  "item.enderite.enderite_boots": "Enderite Boots",
+  
+  "item.enderite.enderite_sword": "Enderite Sword",
+  "item.enderite.enderite_pickaxe": "Enderite Pickaxe",
+  "item.enderite.enderite_axe": "Enderite Axe",
+  "item.enderite.enderite_shovel": "Enderite Shovel",
+  "item.enderite.enderite_hoe": "Enderite Hoe",
+    
+  "block.enderite.enderite_block": "Enderite Block",
+  "block.enderite.enderite_ore": "Enderite Ore",
+  "block.enderite.raw_enderite_block": "Raw Enderite Block",
+  "block.enderite.end_respawn_anchor": "End Respawn Anchor",
+  
+  "tooltip.enderite.enderite_armor.description": "Makes Endermans peaceful",
+  "tooltip.enderite.enderite_elytra_chestplate.description": "Makes Endermans peaceful and you can fly!",
+  
+  "advancements.end.enderite.obtain_enderite_ingot.title": "Is this good?",
+  "advancements.end.enderite.obtain_enderite_ingot.description": "Obtain Enderite Ingot",
+  "advancements.end.enderite.enderite_armor.title": "New Friends!",
+  "advancements.end.enderite.enderite_armor.description": "Obtain a full Enderite Armor",
+  "advancements.end.enderite.enderite_elytra_chestplate.title": "The perfect Armor",
+  "advancements.end.enderite.enderite_elytra_chestplate.description": "Obtain Enderite Elytra Chestplate",
+  
+  "advancements.husbandry.enderite.obtain_enderite_hoe.title": "Ok, when you can do it!?",
+  "advancements.husbandry.enderite.obtain_enderite_hoe.description": "Obtain Enderite Hoe",
+  
+  
+  
+  "item.enderite.gilded_enderite_helmet": "Gilded Enderite Helmet",
+  "item.enderite.gilded_enderite_chestplate": "Gilded Enderite Chestplate",
+  "item.enderite.gilded_enderite_elytra_chestplate": "Gilded Enderite Elytra Chestplate",
+  "item.enderite.gilded_enderite_leggings": "Gilded Enderite Leggings",
+  "item.enderite.gilded_enderite_boots": "Gilded Enderite Boots",
+  
+  "item.enderite.gilded_enderite_sword": "Gilded Enderite Sword",
+  "item.enderite.gilded_enderite_pickaxe": "Gilded Enderite Pickaxe",
+  "item.enderite.gilded_enderite_axe": "Gilded Enderite Axe",
+  "item.enderite.gilded_enderite_shovel": "Gilded Enderite Shovel",
+  "item.enderite.gilded_enderite_hoe": "Gilded Enderite Hoe",
+    
+  "block.enderite.gilded_enderite_block": "Gilded Enderite Block",
+  
+  "tooltip.enderite.gilded_enderite_armor.description": "Makes Endermans and Piglins peaceful",
+  "tooltip.enderite.gilded_enderite_elytra_chestplate.description": "Makes Endermans and Piglins peaceful and you can fly!"
+  
+}

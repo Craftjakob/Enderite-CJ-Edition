@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="MIT License"
+issueTrackerURL="https://github.com/Craftjakob/Enderite-CJ-Edition/issues"
+
+[[mods]]
+    modId="enderite"
+    version="${file.jarVersion}"
+    displayName="Enderite"
+    #updateJSONURL="https://I'm_not_working.com"
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/enderite-cj-edition"
+    logoFile="icon.png"
+    itemIcon="enderite:enderite_chestplate_elytra"
+    credits="Thank you for installing the Enderite Mod!"
+    authors="Craftjakob"
+
+description='''
+You can find Enderite Ore in the End to craft Enderite Armor and Tools!
+'''
+	
+[[dependencies.enderite]]
+    modId="forge"
+    mandatory=true
+    versionRange="[45,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.enderite]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4,1.20)"
+    ordering="NONE"
+    side="BOTH"

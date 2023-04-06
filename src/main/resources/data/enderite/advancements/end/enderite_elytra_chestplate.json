@@ -1,0 +1,40 @@
+{
+	"display": {
+		"icon": {
+			"item": "enderite:enderite_elytra_chestplate"
+		},
+		"title": {
+			"translate": "advancements.end.enderite.enderite_elytra_chestplate.title"
+		},
+		"description": {
+			"translate": "advancements.end.enderite.enderite_elytra_chestplate.description"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "minecraft:end/elytra",
+	"criteria": {
+		"enderite_elytra_chestplate": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"enderite:enderite_elytra_chestplate"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"enderite_elytra_chestplate"
+		]
+	],
+	"rewards": {
+		"experience": 250
+	}
+}

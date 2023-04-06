@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "enderite:enderite_ore_large_placed",
+  "step": "underground_ores"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "enderite:enderite_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:elytra"
+  },
+  "result": {
+    "item": "enderite:enderite_elytra_chestplate"
+  }
+}
